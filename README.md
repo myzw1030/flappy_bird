@@ -1,3 +1,4 @@
 # flappy_bird
 
-A new Flutter project.
+- 参考
+  https://github.com/HeyFlutter-Public/flappy_bird_game
